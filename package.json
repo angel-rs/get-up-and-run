@@ -1,0 +1,31 @@
+{
+  "name": "get-up-and-run",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "run": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angel-rs/get-up-and-run.git"
+  },
+  "keywords": [],
+  "author": "Angel Rodríguez",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "glob": "^7.1.6",
+    "meow": "^6.0.1",
+    "ora": "^4.0.3",
+    "shelljs": "^0.8.3",
+    "ztrings": "^1.1.6"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angel-rs/get-up-and-run/issues"
+  },
+  "homepage": "https://github.com/angel-rs/get-up-and-run#readme"
+}
