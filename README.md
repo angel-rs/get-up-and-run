@@ -8,7 +8,7 @@ Automate your setup for different work environments/projects - run tedious comma
 
 ```
 npm install -g get-up-and-run
-yarn add global get-up-and-run
+yarn global add get-up-and-run
 ```
 
 ## ⌨️ Usage
