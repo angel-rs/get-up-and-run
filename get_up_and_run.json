@@ -1,7 +1,0 @@
-{
-      "command_suite": [
-        "echo 'hi'; sleep 100",
-        "echo 'hey'; sleep 100",
-        "echo 'ahoy'; sleep 100"
-      ]
-}
